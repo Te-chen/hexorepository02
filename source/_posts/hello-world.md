@@ -10,3 +10,4 @@ top: 99
 { <a href=https://te-chen.github.io/>Low-config Living</a> | <a href=https://chiangtechen.wordpress.com/>Te-chen's Site</a> }
 </center>
 </p>
+<img src="https://cdn.jsdelivr.net/gh/Te-chen/figurebed01/20210731034401.png"/>
